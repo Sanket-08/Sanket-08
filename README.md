@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket-08" alt="sanket-08" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/navvie08" target="blank"><img src="https://img.shields.io/twitter/follow/navvie08?logo=twitter&style=for-the-badge" alt="navvie08" /></a> </p>
 
 - 👯 I’m looking to collaborate on **React, JavaScript**
